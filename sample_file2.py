@@ -1,0 +1,1 @@
+print("This is the text inside of sample file 2.")
